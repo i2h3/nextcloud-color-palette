@@ -2,9 +2,7 @@
 
 [Nextcloud brand colors](https://nextcloud.com/brand/#colors) as a macOS color palette so you do not have to pull up the brand guidelines every time.
 
-<div style="text-align: center;">
-    <img src="README.png" alt="macOS Color Palette Window Screenshot" style="width: 274px;" />
-</div>
+<img src="README.png" alt="macOS Color Palette Window Screenshot" style="width: 274px;" />
 
 ## Installation
 
