@@ -1,6 +1,6 @@
 # Nextcloud Color Palette
 
-[Nextcloud brand colors](https://nextcloud.com/brand/#colors) as a macOS color palette so you do not have to pull up the brand guidelines every time.
+[Nextcloud brand colors](https://nextcloud.com/brand/#colors) and [design foundations](https://docs.nextcloud.com/server/latest/developer_manual/design/foundations.html#color) as a macOS color palette so you do not have to pull up the documentation every time.
 
 <img src="README.png" alt="macOS Color Palette Window Screenshot" style="width: 274px;" />
 
